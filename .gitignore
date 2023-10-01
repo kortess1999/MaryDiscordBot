@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MaryMusic
+# Dependency directories
+/MaryMusic/node_modules/
+/MaryMusic/yarn.lock
