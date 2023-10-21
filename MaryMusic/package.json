@@ -4,8 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@databases/pg": "^5.4.1",
+    "@databases/pg-schema-cli": "^4.3.1",
+    "@databases/pg-typed": "^4.4.1",
     "discord.js": "^14.13.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
     "@types/node": "^20.8.0",

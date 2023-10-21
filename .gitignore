@@ -10,3 +10,4 @@ yarn-error.log*
 /MaryMusic/node_modules/
 /MaryMusic/yarn.lock
 /MaryMusic/.env
+/MaryMusic/src/__generated__
